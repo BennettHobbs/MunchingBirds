@@ -1,0 +1,10 @@
+#include <windows.h>
+
+using namespace std;
+
+int main() {
+
+    system("start javaw -splash:someImage.png -jar MunchingBirds.jar");
+
+    return 0;
+}
